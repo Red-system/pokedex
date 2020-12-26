@@ -1,0 +1,44 @@
+body {
+    font-family: 'Karla', sans-serif;
+    background: linear-gradient(180deg, #F5DB13 0%, #F2B807 100%);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.container {
+    margin: 0 auto;
+    max-width: 1225px;
+    height: 100%;
+}
+
+.buttons_nav_bar {
+    width: 660px;
+}
+
+.buttons_nav_bar a {
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.navbar_top {
+    background-color: #F5DB13;
+    height: 93px;
+    /* box-shadow: 0 5px 2px 0 #636658; */
+    box-shadow: 0px 6px 17px 0px rgba(0, 0, 0, 0.45);
+}
