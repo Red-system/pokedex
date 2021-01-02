@@ -1,0 +1,26 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Powered by the dream team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Red-system/pokedex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Red-system/pokedex/issues"
+  },
+  "homepage": "https://github.com/Red-system/pokedex#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "pg": "^8.5.1"
+  }
+}
